@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+venv/
+env/
+
+# Logs and data
+*.log
+*.csv
+*.json
+
+# Specific to this project
+hla_cache/
+donor_sequences_task3_local.fasta
+recipient_sequences_task3_local.fasta
