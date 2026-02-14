@@ -21,3 +21,4 @@ env/
 hla_cache/
 donor_sequences_task3_local.fasta
 recipient_sequences_task3_local.fasta
+IMGTHLA_local/
